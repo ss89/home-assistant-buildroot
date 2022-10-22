@@ -2330,6 +2330,10 @@ N:	Pierre Crokaert <pct@crookies.net>
 F:	board/hardkernel/odroidxu4/
 F:	configs/odroidxu4_defconfig
 
+N:	Sebastian Struß <struss@x2d2.de>
+F:	board/hardkernel/odroidu3/
+F:	configs/odroidu3_defconfig
+
 N:	Pierre Ducroquet <pinaraf@pinaraf.info>
 F:	package/kf5/
 
