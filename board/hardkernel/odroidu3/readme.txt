@@ -32,6 +32,6 @@ Copy the bootable "sdcard.img" onto an SD card or eMMC with "dd":
 
   $ sudo dd if=output/images/sdcard.img of=/dev/sdX
 
-Insert the SDcard into your ODROID-XU4, and power it up. Your new system
+Insert the SDcard into your ODROID-U3, and power it up. Your new system
 should come up now.
 
